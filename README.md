@@ -8,4 +8,4 @@ mytauchen.jl: tauchen method
 
 myrouwenhorst.jl: rouwenhorst method 
 
-AR(1).ipnb: presentation slide
+AR(1).ipynb: presentation slide
