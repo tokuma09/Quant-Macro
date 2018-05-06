@@ -20,3 +20,9 @@ mytauchen.jl: tauchen method
 myrouwenhorst.jl: rouwenhorst method 
 
 AR(1).ipynb: presentation slide
+
+In the github page, AR(1).ipynb cannot be rendered precisely, so
+**please visit [nbviewer](https://nbviewer.jupyter.org/format/slides/github/tokupooh/Quant-Macro/blob/master/AR%281%29.ipynb?flush_cache=true#/) and see my slide. **
+
+If you do not change my code in the AR(1).ipynb, It is enough to see my slide at nbviewer.
+
